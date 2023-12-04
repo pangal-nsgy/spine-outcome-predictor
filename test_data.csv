@@ -1,4 +1,28 @@
-Patient_ID,Data
-1,Patient has a history of chronic back pain and recent surgery.
-2,Recent MRI shows disc herniation in the lower lumbar region.
-3,Patient reports increasing discomfort and limited mobility post-operation.
+ColumnA,ColumnB
+" 62-year-old female who presents with history of seizure disorder on Keppra, prior ACDF in Scottsdale AZ in 2003, A-fib (ASA 81), HTN, HL, hypothyroidism, osteoporosis (Fosamax), stroke, COPD, multiple ear surgeries (deaf in right ear and hearing aid in left), hysterectomy, cholecystectomy, and bilateral cataracts; she presents to clinic today for initial evaluation of neck pain and right shoulder pain. The pain radiates into the triceps and stops at the elbow.  
+ 
+In October 2021 she had a major seizure and fell, her pain started after this fall. She rates the pain as a 8/10. She describes the pain as sharp, stabbing, burning, and numbness. The pain is constant. The pain is worse with bending, sitting, lying down, lifting, walking, or stress. The pain is better with rest, medications and CBD (medical marijuana). 
+ 
+She has intermittent tingling in her finger tips and hands, bilaterally since her fall in October 2021. The numbness occurs randomly, there is no pattern to when it occurs. She has weakness in the upper extremities, R> L. She has poor balance. She uses a cane when she needs to walk longer distances, otherwise she walks without assistance. She has urinary incontinence and wears depends. This has been going on since her ACDF in 2003 and is stable. She denies bowel incontinence.  
+ 
+She also has lower back pain and numbness in the right lateral thigh. She has pain in her medial left thigh with left hip rotation. 
+ 
+She has been on Fentanyl patches since her initial ACDF in 2003. She takes Gabapentin. She tried physical therapy in the spring which did help improve her strength and mobility. She had a stroke in 2016 and had left-sided weakness. She has some residual weakness on her left side, but it has improved since her stroke.   
+","C3-5 ACDF for ASD w myelopathy prior C5-7 ACDF 
+"
+"70 Y male with history of hypertension, hyperlipidemia, hypothyroidism, CKD, and carcinoma of base of the tongue in 2005 (treated with chemoradiation). He is here today for evaluation of low back pain into the legs.
+ 
+He reports low back pain into the bilateral groin and hamstring, ongoing since September 2022 when he fell into a hole. He finds the low back to be most bothersome. Pain is constant, rated 8/10, and described as sharp, stabbing, burning, dull, throbbing, shooting, with numbness and tingling. Pain is exacerbated with standing and walking for more than 10-15 minutes. Pain is alleviated with sitting or laying down, at which point he has no pain. There is no weakness in the legs. Gait is steady, without recent falls. No bowel or bladder dysfunction or incontinence or saddle anesthesia.
+ 
+He has intermittent neck stiffness, which does not occur daily. There is no pain down the arms. He has tingling in the first 3 digits of both hands. He does not drop items from the hands. He wears wrist splints bilaterally to sleep, without benefit.
+ 
+He did 1 session of physical therapy in January 2023 and is doing home exercises, without benefit. He stopped PT as he went on vacation but plans to go back. He denies history of epidural steroid injections. He underwent EMG with Dr. K in January 2023. For pain, he takes Advil and gabapentin 600 mg qAM. 
+","L4-S1 ANTERIOR LUMBAR INTERBODY FUSION, L3-S1 POSTERIOR SPINAL FUSION, L4-L5 LAMINECTOMY 
+"
+"71 Y male with history of hypertension. He is here today for evaluation of low back pain.
+ 
+Mr.A states he has low back pain, right greater than left.  The pain radiates to bilateral legs, right greater than left, to the posterior thigh, knee, ankle, and foot.  The pain is described as a sharp sensation, rated 9/10.  Patient intermittently has a burning sensation in his low back.  Standing worsens his pain and lying flat improves his pain.  He states he has left lower extremity weakness and numbness and tingling in bilateral feet.  He occasionally has an unsteady gait after overexertion and uses a cane.  He denies bowel or bladder incontinence or saddle anesthesia.
+ 
+With regards to conservative treatment, he has tried physical therapy a few years ago.  He did not find this beneficial.  He had an L3-L4 epidural steroid injection recently.  He states this only helped for a few days.  He currently takes Percocet 5 times per day and methadone at bedtime.  This is prescribed by his pain management physician.
+ 
+","L3-5 ALIF, L3-5 Posterior Fusion"

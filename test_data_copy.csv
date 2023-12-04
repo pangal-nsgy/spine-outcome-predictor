@@ -1,26 +1,28 @@
-Patient_ID,Data,GPT4_Response
-1,Patient has a history of chronic back pain and recent surgery.,"As an AI assistant, I cannot directly access specific patient information or provide precise medical predictions. However, I can provide you with some general information.
-
-The long-term outcome of a patient with chronic back pain and recent surgery can vary depending on various factors, such as the underlying cause of the pain, the success of the surgery, and the patient's overall health. In some cases, surgery can provide significant relief and improved function, allowing the patient to have a better quality of life in the long term. However, it's important to note that this outcome can also be influenced by individual factors and potential complications.
-
-The estimated length of stay in a hospital after back surgery can also vary depending on the specific procedure performed, the patient's overall health, and any potential complications. In general, hospital stays for back surgery can range from a few days to a week or more. The length of stay will be determined by the healthcare provider based on the individual patient's needs and recovery progress.
-
-To get more accurate and personalized information regarding the patient's long-term outcome and estimated length of stay, it is best to consult with the healthcare provider or specialist who is directly involved in the patient's care."
-2,Recent MRI shows disc herniation in the lower lumbar region.,"As an AI language model, I'm not able to access specific patient data or provide medical advice. However, I can give you some general information about disc herniation and its potential long-term outcomes.
-
-The long-term outcome of a patient with a disc herniation can vary depending on various factors, including the severity of the herniation, effectiveness of treatments, and the individual's overall health. In some cases, with appropriate treatment and management, the symptoms can significantly improve or resolve over time.
-
-Conservative treatment options for disc herniation usually involve rest, physical therapy, pain medication, and possibly epidural injections to reduce inflammation and relieve symptoms. If conservative measures fail to provide relief, surgical interventions like discectomy or spinal fusion may be considered.
-
-The estimated length of stay for a patient with a disc herniation would depend on various factors such as the severity of symptoms, treatment plan, and individual recovery progress. In some cases, patients may be treated on an outpatient basis, while others may require a short inpatient stay for surgical intervention or intensive management.
-
-It's essential to consult with a healthcare professional who has access to your complete medical history and imaging results to get an accurate understanding of your specific case and chances for recovery."
-3,Patient reports increasing discomfort and limited mobility post-operation.,"As an AI language model, I am not able to provide specific medical advice or predict individual treatment outcomes. However, I can offer some general information.
-
-The long-term outcome of a patient after a surgical procedure can vary depending on various factors such as the type of surgery, the extent of the condition being treated, the patient's overall health, and the effectiveness of post-operative care.
-
-If the patient is experiencing increasing discomfort and limited mobility post-operation, it is important for them to communicate these concerns with their healthcare provider. The healthcare provider will be in the best position to assess the situation, conduct a physical examination, and order any necessary tests to determine the cause of the symptoms.
-
-The estimated length of stay for a patient post-operation can also vary depending on the procedure performed and the patient's response to treatment. Post-operative hospital stays are typically tailored to each patient's individual needs. Factors that may influence the length of stay include the complexity of the surgery, the patient's recovery progress, and the occurrence of any post-operative complications.
-
-It is essential for patients to maintain open communication with their healthcare team to ensure appropriate management of their symptoms and a successful recovery."
+ColumnA,ColumnB,Summary,Length_of_Stay,Discharge_Location
+" 62-year-old female who presents with history of seizure disorder on Keppra, prior ACDF in Scottsdale AZ in 2003, A-fib (ASA 81), HTN, HL, hypothyroidism, osteoporosis (Fosamax), stroke, COPD, multiple ear surgeries (deaf in right ear and hearing aid in left), hysterectomy, cholecystectomy, and bilateral cataracts; she presents to clinic today for initial evaluation of neck pain and right shoulder pain. The pain radiates into the triceps and stops at the elbow.  
+ 
+In October 2021 she had a major seizure and fell, her pain started after this fall. She rates the pain as a 8/10. She describes the pain as sharp, stabbing, burning, and numbness. The pain is constant. The pain is worse with bending, sitting, lying down, lifting, walking, or stress. The pain is better with rest, medications and CBD (medical marijuana). 
+ 
+She has intermittent tingling in her finger tips and hands, bilaterally since her fall in October 2021. The numbness occurs randomly, there is no pattern to when it occurs. She has weakness in the upper extremities, R> L. She has poor balance. She uses a cane when she needs to walk longer distances, otherwise she walks without assistance. She has urinary incontinence and wears depends. This has been going on since her ACDF in 2003 and is stable. She denies bowel incontinence.  
+ 
+She also has lower back pain and numbness in the right lateral thigh. She has pain in her medial left thigh with left hip rotation. 
+ 
+She has been on Fentanyl patches since her initial ACDF in 2003. She takes Gabapentin. She tried physical therapy in the spring which did help improve her strength and mobility. She had a stroke in 2016 and had left-sided weakness. She has some residual weakness on her left side, but it has improved since her stroke.   
+","C3-5 ACDF for ASD w myelopathy prior C5-7 ACDF 
+","62F, hx of seizure disorder, A-fib, HTN, HL, hypothyroidism, osteoporosis, stroke, COPD, hearing loss. Reports pain 8/10 post fall in 2021, constant with numbness/tingling in hands, uses cane for distance, urinary incontinence. On Fentanyl, Gabapentin. Previous ACDF, considering C3-5 ACDF for ASD w myelopathy.",3-5 days,Skilled nursing facility or Rehabilitation center
+"70 Y male with history of hypertension, hyperlipidemia, hypothyroidism, CKD, and carcinoma of base of the tongue in 2005 (treated with chemoradiation). He is here today for evaluation of low back pain into the legs.
+ 
+He reports low back pain into the bilateral groin and hamstring, ongoing since September 2022 when he fell into a hole. He finds the low back to be most bothersome. Pain is constant, rated 8/10, and described as sharp, stabbing, burning, dull, throbbing, shooting, with numbness and tingling. Pain is exacerbated with standing and walking for more than 10-15 minutes. Pain is alleviated with sitting or laying down, at which point he has no pain. There is no weakness in the legs. Gait is steady, without recent falls. No bowel or bladder dysfunction or incontinence or saddle anesthesia.
+ 
+He has intermittent neck stiffness, which does not occur daily. There is no pain down the arms. He has tingling in the first 3 digits of both hands. He does not drop items from the hands. He wears wrist splints bilaterally to sleep, without benefit.
+ 
+He did 1 session of physical therapy in January 2023 and is doing home exercises, without benefit. He stopped PT as he went on vacation but plans to go back. He denies history of epidural steroid injections. He underwent EMG with Dr. K in January 2023. For pain, he takes Advil and gabapentin 600 mg qAM. 
+","L4-S1 ANTERIOR LUMBAR INTERBODY FUSION, L3-S1 POSTERIOR SPINAL FUSION, L4-L5 LAMINECTOMY 
+","70M with hypertension, hyperlipidemia, CKD, past tongue carcinoma, chronic back pain since fall, no leg weakness, neck stiffness, tingling in hands, L4-S1 ALIF, L3-S1 PSF, L4-L5 laminectomy.",3-5 days,Rehabilitation facility
+"71 Y male with history of hypertension. He is here today for evaluation of low back pain.
+ 
+Mr.A states he has low back pain, right greater than left.  The pain radiates to bilateral legs, right greater than left, to the posterior thigh, knee, ankle, and foot.  The pain is described as a sharp sensation, rated 9/10.  Patient intermittently has a burning sensation in his low back.  Standing worsens his pain and lying flat improves his pain.  He states he has left lower extremity weakness and numbness and tingling in bilateral feet.  He occasionally has an unsteady gait after overexertion and uses a cane.  He denies bowel or bladder incontinence or saddle anesthesia.
+ 
+With regards to conservative treatment, he has tried physical therapy a few years ago.  He did not find this beneficial.  He had an L3-L4 epidural steroid injection recently.  He states this only helped for a few days.  He currently takes Percocet 5 times per day and methadone at bedtime.  This is prescribed by his pain management physician.
+ 
+","L3-5 ALIF, L3-5 Posterior Fusion","71M with severe low back pain, radiating to bilateral legs, intermittent burning sensation, left lower extremity weakness, and paresthesia in feet. History of hypertension, unsteady gait, on Percocet and methadone. Prior therapies minimally effective.",4-7 days,Subacute rehabilitation facility
